@@ -1,8 +1,18 @@
-nav{
-    margin: 30px solid red;
+body {
+    margin: 0;
+    padding: 0;
 }
+nav{
+    border: 10px solid rgb(176, 186, 216);
+    background-color: rgb(176, 186, 216);
+    /* float: right; */
+}
+
+
 a{
     text-decoration: none;
-
-
+    font-size: 20px;
+    margin: 30px;
+    margin-left: 10px;
+   
 }
