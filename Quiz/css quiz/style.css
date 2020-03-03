@@ -1,0 +1,31 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+body {
+    background-color: rgb(186, 243, 243);
+    
+    
+}
+h1 {
+    text-align: center;
+    color:  rgb(41, 66, 150);
+}
+form {
+    color:  rgb(41, 66, 150);
+    font-size: larger;
+    margin-left: 150px;
+}
+.button {
+    background-color: rgb(41, 66, 150);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
