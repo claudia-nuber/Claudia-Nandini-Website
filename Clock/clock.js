@@ -1,7 +1,6 @@
 
 
 
-
 function setClock() {
     setInterval(function () {
         const hourHand = document.querySelector('[data-hour-hand');
